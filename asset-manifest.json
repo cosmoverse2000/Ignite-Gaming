@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Ignite-Gaming/static/js/main.964512ad.js",
+    "static/js/787.637e0c58.chunk.js": "/Ignite-Gaming/static/js/787.637e0c58.chunk.js",
+    "static/media/steam.svg": "/Ignite-Gaming/static/media/steam.840878ac8ae0e05b7d7a1091cffd0745.svg",
+    "static/media/playstation.svg": "/Ignite-Gaming/static/media/playstation.4bbb4079f3e85b5523f4507b1910c83f.svg",
+    "static/media/xbox.svg": "/Ignite-Gaming/static/media/xbox.63a50e86ebde9662ba53743bc1079c53.svg",
+    "static/media/gamepad.svg": "/Ignite-Gaming/static/media/gamepad.98eab601c2c8b411c2ccb300cde1515b.svg",
+    "static/media/nintendo.svg": "/Ignite-Gaming/static/media/nintendo.a909be56de8aa6519a4f0e90fc6bdd72.svg",
+    "static/media/apple.svg": "/Ignite-Gaming/static/media/apple.aed8126aa230f2eb33526f7b9e63ed04.svg",
+    "index.html": "/Ignite-Gaming/index.html",
+    "static/media/logo.svg": "/Ignite-Gaming/static/media/logo.9b6b8655566296b0edaa86ec3dbac3a0.svg",
+    "main.964512ad.js.map": "/Ignite-Gaming/static/js/main.964512ad.js.map",
+    "787.637e0c58.chunk.js.map": "/Ignite-Gaming/static/js/787.637e0c58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.964512ad.js"
+  ]
+}
