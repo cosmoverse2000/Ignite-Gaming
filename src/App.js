@@ -1,22 +1,19 @@
-import React from 'react';
+import React from "react";
 //styles
 import GlobalStyles from "../src/components/GlobalStyles";
 //pages and components
-import Home from '../src/pages/Home';
-import Nav from './components/Nav';
+import Home from "../src/pages/Home";
+import Nav from "./components/Nav";
 //router
-import { Route, Routes } from 'react-router-dom';
-
-
+import { Route, Routes } from "react-router-dom";
 
 function App() {
-
-
   return (
-    <div className='App'>
+    <div className="App">
       <GlobalStyles />
       <Nav />
       <Routes>
+        <Route path="/" element={<Home />} />
         <Route path="/Axios-Redux" element={<Home />} />
         <Route path="/game/:id" element={<Home />} />
       </Routes>
